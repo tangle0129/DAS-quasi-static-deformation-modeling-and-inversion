@@ -5,7 +5,7 @@ The original forward static modeling code is from the MATLAB package of Skar et 
 
 The forward Jupyter code can simulate the 3D geometry of the fiber-optic cable and record the generated quasi-static strain rate as the vehicle moves.
 The MCMC inversion Jupyter code provides a real-data example in a recent paper (Tang et al., 2026), in which the car is traveling along the cable direction.
-
+The 5 min raw DAS recording which includes the quasi-static strain rate is available from https://doi.org/10.5281/zenodo.18922102.
 The associated paper: Quasi-static strain rate waveform inversion from Distributed Acoustic Sensing data. Tang et al., (2026)
-If you use this code, we would appreciate a citation:DOI:10.5281/zenodo.8163782. 
+If you use this code, we would appreciate a citation: https://doi.org/10.5281/zenodo.18922065. 
 This work benefited from State funding managed by the French National Research Agency (ANR) under the France 2030 program, reference ANR-22-EXSS-0011.
